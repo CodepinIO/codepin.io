@@ -1,0 +1,51 @@
+{
+    title: "Privacy Avatar Card",
+    thumbnail_url: "https://thimbleprojects.org/mozillalearning/286538/privacy-avatar.png",
+    url: "https://thimbleprojects.org/mozillalearning/308793/",
+    project_id: 308793,
+    description: "Online, you can be your own Privacy & Security champion. Remix this card to create your own online safety alter ego.",
+    tags: [
+        "css",
+        "html",
+        "fun",
+        "privacy",
+        "security"
+    ],
+    featured: true,
+    author: "mozilla",
+    author_url: "http://learning.mozilla.org"
+}, {
+    title: "Fill-in-the-Blanks Story",
+    thumbnail_url: "https://thimbleprojects.org/mozillalearning/286538/privacy-madlibs.png",
+    url: "https://thimbleprojects.org/mozillalearning/308796/",
+    project_id: 308796,
+    description: "Start a Privacy & Security conversation with this silly prompt and remix it to to make a story of your own!",
+    tags: [
+        "css",
+        "html",
+        "javascript",
+        "js",
+        "privacy",
+        "security"
+    ],
+    featured: true,
+    author: "mozilla",
+    author_url: "http://learning.mozilla.org"
+}, {
+    title: "Hacker Card Game",
+    thumbnail_url: "https://thimbleprojects.org/mozillalearning/286538/privacy-cards.png",
+    url: "https://thimbleprojects.org/mozillalearning/308795/",
+    project_id: 308795,
+    description: "Outwit, escape, and remix attacks against your online Privacy & Security!",
+    tags: [
+        "fun",
+        "game",
+        "js",
+        "javascript",
+        "privacy",
+        "security"
+    ],
+    featured: true,
+    author: "mozilla",
+    author_url: "http://learning.mozilla.org"
+},
