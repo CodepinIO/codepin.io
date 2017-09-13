@@ -1,51 +1,215 @@
-[{
-    title: "Privacy Avatar Card",
-    thumbnail_url: "https://thimbleprojects.org/mozillalearning/286538/privacy-avatar.png",
-    url: "https://thimbleprojects.org/mozillalearning/308793/",
-    project_id: 308793,
-    description: "Online, you can be your own Privacy & Security champion. Remix this card to create your own online safety alter ego.",
-    tags: [
-        "css",
-        "html",
-        "fun",
-        "privacy",
-        "security"
-    ],
-    featured: true,
-    author: "mozilla",
-    author_url: "http://learning.mozilla.org"
-}, {
-    title: "Fill-in-the-Blanks Story",
-    thumbnail_url: "https://thimbleprojects.org/mozillalearning/286538/privacy-madlibs.png",
-    url: "https://thimbleprojects.org/mozillalearning/308796/",
-    project_id: 308796,
-    description: "Start a Privacy & Security conversation with this silly prompt and remix it to to make a story of your own!",
-    tags: [
-        "css",
-        "html",
-        "javascript",
-        "js",
-        "privacy",
-        "security"
-    ],
-    featured: true,
-    author: "mozilla",
-    author_url: "http://learning.mozilla.org"
-}, {
-    title: "Hacker Card Game",
-    thumbnail_url: "https://thimbleprojects.org/mozillalearning/286538/privacy-cards.png",
-    url: "https://thimbleprojects.org/mozillalearning/308795/",
-    project_id: 308795,
-    description: "Outwit, escape, and remix attacks against your online Privacy & Security!",
-    tags: [
-        "fun",
-        "game",
-        "js",
-        "javascript",
-        "privacy",
-        "security"
-    ],
-    featured: true,
-    author: "mozilla",
-    author_url: "http://learning.mozilla.org"
-}]
+
+[
+  {
+    "title" : "Privacy Avatar Card",
+    "thumbnail_url" : "https://thimbleprojects.org/mozillalearning/286538/privacy-avatar.png",
+    "url" : "https://thimbleprojects.org/mozillalearning/308793/",
+    "project_id": 308793,
+    "description" : "Online, you can be your own Privacy & Security champion. Remix this card to create your own online safety alter ego.",
+    "tags" : ["css","html","fun","privacy", "security"],
+    "featured" : true,
+    "author" : "mozilla",
+    "author_url" : "http://learning.mozilla.org"
+  },
+  {
+    "title" : "Fill-in-the-Blanks Story",
+    "thumbnail_url" : "https://thimbleprojects.org/mozillalearning/286538/privacy-madlibs.png",
+    "url" : "https://thimbleprojects.org/mozillalearning/308796/",
+    "project_id": 308796,
+    "description" : "Start a Privacy & Security conversation with this silly prompt and remix it to to make a story of your own!",
+    "tags" : ["css","html","javascript","js","privacy", "security"],
+    "featured" : true,
+    "author" : "mozilla",
+    "author_url" : "http://learning.mozilla.org"
+  },
+  {
+    "title" : "Hacker Card Game",
+    "thumbnail_url" : "https://thimbleprojects.org/mozillalearning/286538/privacy-cards.png",
+    "url" : "https://thimbleprojects.org/mozillalearning/308795/",
+    "project_id": 308795,
+    "description" : "Outwit, escape, and remix attacks against your online Privacy & Security!",
+    "tags" : ["fun","game","js","javascript","privacy","security"],
+    "featured" : true,
+    "author" : "mozilla",
+    "author_url" : "http://learning.mozilla.org"
+  },
+  {
+    "title" : "Homework Excuse Generator",
+    "thumbnail_url" : "https://thimble.mozilla.org/img/thumbnail-homework-excuse-generator.png",
+    "url" : "https://thimbleprojects.org/mozillalearning/11698/",
+    "project_id": 2498,
+    "description" : "Remix a basic JavaScript function to explain why your homework is late.",
+    "tags" : ["code","array","javascript","js"],
+    "teaching_kit_url" : "https://thimbleprojects.org/mozillalearning/11701/",
+    "author" : "mozilla",
+    "author_url" : "http://learning.mozilla.org",
+    "featured" : true
+  },
+  {
+    "title" : "HTML Burger",
+    "thumbnail_url" : "https://thimbleprojects.org/mozillalearning/286538/build-a-burger.png",
+    "url" : "https://thimbleprojects.org/mozillalearning/286539/",
+    "project_id": 286539,
+    "description" : "Build your own delicious burger with HTML tags and a sprinkle of CSS.",
+    "tags" : ["html","css","fun"],
+    "featured" : true,
+    "author" : "mozilla",
+    "author_url" : "http://learning.mozilla.org"
+  },
+  {
+    "title" : "My Six Word Summer",
+    "thumbnail_url" : "https://thimble.mozilla.org/img/thumbnail-my-six-word-summer.png",
+    "url" : "https://thimbleprojects.org/mozillalearning/11703/",
+    "project_id": 2500,
+    "description" : "Tell us what you did last summer in just six words.",
+    "tags" : ["html","writing","narrative"],
+    "teaching_kit_url" : "https://thimbleprojects.org/mozillalearning/11704/",
+    "author" : "mozilla",
+    "author_url" : "http://learning.mozilla.org",
+    "featured" : true
+  },
+  {
+    "title" : "Keep Calm and Carry On",
+    "thumbnail_url" : "https://thimble.mozilla.org/img/thumbnail-keep-calm.png",
+    "url" : "https://thimbleprojects.org/mozillalearning/220073/",
+    "project_id": 220073,
+    "description" : "Change the design of this poster to make it your own.",
+    "tags" : ["css","html","color","design"],
+    "teaching_kit_url" : "https://thimbleprojects.org/mozillalearning/171/",
+    "author" : "mozilla",
+    "author_url" : "http://learning.mozilla.org"
+  },
+  {
+    "title" : "Back to School Postcard",
+    "thumbnail_url" : "https://thimble.mozilla.org/img/thumbnail-postcard.png",
+    "url" : "https://thimbleprojects.org/mozillalearning/220079/",
+    "project_id": 220079,
+    "description" : "Add your own content to this interactive postcard.",
+    "tags" : ["images","code","javascript","interactive","js"],
+    "teaching_kit_url" : "https://thimbleprojects.org/mozillalearning/62/",
+    "author" : "mozilla",
+    "author_url" : "http://learning.mozilla.org"
+  },
+  {
+    "title" : "Build with HTML Bricks",
+    "thumbnail_url" : "https://thimbleprojects.org/mozillalearning/279519/img/thumbnail.png",
+    "url" : "https://thimbleprojects.org/mozillalearning/279519/",
+    "project_id": 279519,
+    "description" : "Use HTML elements like colorful bricks to build something fun.",
+    "tags" : ["css","html","color","fun","positioning"],
+    "author" : "mozilla",
+    "author_url" : "http://learning.mozilla.org"
+  },
+  {
+    "title" : "Three Things I <3",
+    "thumbnail_url" : "https://thimble.mozilla.org/img/thumbnail-three-things-i-heart.png",
+    "url" : "https://thimbleprojects.org/mozillalearning/10950/",
+    "project_id": 2375,
+    "description" : "Make a simple website to share what you love.",
+    "tags" : ["images","links","story","creative"],
+    "teaching_kit_url" : "https://thimbleprojects.org/mozillalearning/11288/",
+    "author" : "mozilla",
+    "author_url" : "http://learning.mozilla.org"
+  },
+  {
+    "title" : "Current Events Comic",
+    "thumbnail_url" : "https://thimble.mozilla.org/img/thumbnail-comic-strip.png",
+    "url" : "https://thimbleprojects.org/mozillalearning/220082/",
+    "project_id": 220082,
+    "description" : "Create your very own version of this comic strip.",
+    "tags" : ["fun","images","attribution","search","img"],
+    "teaching_kit_url" : "https://thimbleprojects.org/mozillalearning/32/",
+    "author" : "mozilla",
+    "author_url" : "http://learning.mozilla.org"
+  },
+  {
+    "title" : "p5.js sarter project",
+    "url" : "https://thimbleprojects.org/mozillalearning/213461/",
+    "project_id": 213461,
+    "thumbnail_url" : "https://thimbleprojects.org/mozillalearning/213461/thumbnail.gif",
+    "description" : "Get started with this fun javascript drawing library.",
+    "tags" : ["javascript","js","processing","p5","graphics", "art"],
+    "author" : "mozilla",
+    "author_url" : "http://learning.mozilla.org"
+  },
+  {
+    "title" : "Dapper Fox Hat Animation",
+    "url" : "https://thimbleprojects.org/mozillalearning/213517/",
+    "project_id": 213517,
+    "thumbnail_url" : "https://thimbleprojects.org/mozillalearning/213517/images/thumbnail.gif",
+    "description" : "Learn CSS animations to give the Dapper Fox a nifty hat-tip.",
+    "tags" : ["animation","css"],
+    "author" : "mozilla",
+    "author_url" : "http://learning.mozilla.org"
+  },
+  {
+    "title" : "Remixable Facebook Post",
+    "url" : "https://thimbleprojects.org/mozillalearning/213492/",
+    "project_id": 213492,
+    "thumbnail_url" : "https://thimbleprojects.org/mozillalearning/213492/thumbnail.jpg",
+    "description" : "Create your own fake Facebook post and comments.",
+    "tags" : ["html","css"],
+    "author" : "mozilla",
+    "author_url" : "http://learning.mozilla.org"
+  },
+  {
+    "title" : "Revise a Business page",
+    "url" : "https://thimbleprojects.org/mozillalearning/213466/",
+    "project_id": 213466,
+    "thumbnail_url" : "https://thimbleprojects.org/mozillalearning/213466/thumbnail.gif",
+    "description" : "Create a page for your imaginary business.",
+    "tags" : ["html","css","content"],
+    "author" : "mozilla",
+    "author_url" : "http://learning.mozilla.org"
+  },
+  {
+    "title" : "Revise a Résumé",
+    "url" : "https://thimbleprojects.org/mozillalearning/213474/",
+    "project_id": 213474,
+    "thumbnail_url" : "https://thimbleprojects.org/mozillalearning/213474/thumbnail.gif",
+    "description" : "Create your own resume by chaning this HTML version.",
+    "tags" : ["html","css","content"],
+    "author" : "mozilla",
+    "author_url" : "http://learning.mozilla.org"
+  },
+  {
+    "title" : "#commontags Revision Project",
+    "url" : "https://thimbleprojects.org/mozillalearning/213458/",
+    "project_id": 213458,
+    "thumbnail_url" : "https://thimbleprojects.org/mozillalearning/213458/thumbnail.png",
+    "description" : "Use common HTML page to make the page look great.",
+    "tags" : ["html","content", "markup"],
+    "author" : "mozilla",
+    "author_url" : "http://learning.mozilla.org"
+  },
+  {
+    "title" : "CSS Building Blocks",
+    "url" : "https://thimbleprojects.org/mozillalearning/198703/",
+    "project_id": 198703,
+    "thumbnail_url" : "https://thimbleprojects.org/mozillalearning/198703/thumbnail.gif",
+    "description" : "Learn how to position HTML elements with CSS",
+    "tags" : ["html","css", "style","positioning"],
+    "author" : "mozilla",
+    "author_url" : "http://learning.mozilla.org"
+  },
+  {
+    "title" : "My First VR Site",
+    "url" : "https://thimbleprojects.org/mozillalearning/214838/",
+    "project_id": 214838,
+    "thumbnail_url" : "https://thimbleprojects.org/mozillalearning/214838/thumbnail.png",
+    "description" : "Create your first VR site using mozilla's A-frame.",
+    "tags" : ["VR","3D", "Aframe"],
+    "author" : "mozilla",
+    "author_url" : "http://learning.mozilla.org"
+  },
+  {
+    "title" : "Make-a-Meme",
+    "url" : "https://thimbleprojects.org/mozillalearning/17083/",
+    "project_id": 17083,
+    "thumbnail_url" : "https://thimbleprojects.org/mozillalearning/17083/thumbnail.gif",
+    "description" : "Make your own meme by changing the captions and image",
+    "tags" : ["html","css", "style","text"],
+    "author" : "mozilla",
+    "author_url" : "http://learning.mozilla.org"
+  }
+]
