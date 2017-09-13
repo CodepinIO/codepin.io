@@ -1,4 +1,4 @@
-{
+[{
     title: "Privacy Avatar Card",
     thumbnail_url: "https://thimbleprojects.org/mozillalearning/286538/privacy-avatar.png",
     url: "https://thimbleprojects.org/mozillalearning/308793/",
@@ -48,4 +48,4 @@
     featured: true,
     author: "mozilla",
     author_url: "http://learning.mozilla.org"
-},
+}]
