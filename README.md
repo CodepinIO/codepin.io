@@ -3,3 +3,4 @@ CodePin is a full-featured code editor that runs right in the browser. It's desi
 
 It's a code editor, web server, web browser & developer tools all in one—and it's free!
 
+![Codepin Features](https://raw.githubusercontent.com/CodepinIO/codepin.io/temp/codepin_features.png)
